@@ -12,10 +12,10 @@ Welcome to my Github page! I am Maxine and I recently finished my Computer Scien
 - Reading Decode and Conquer
 - Relaxing after graduation
 
-#### :muscle: Things I am challenging myself with:
-- Coding for an hour a day
-- Read about emerging technology daily
-- Excerising regularly
+#### :muscle: Things I am keeping up with daily:
+- Coding practices
+- Read about emerging technology
+- Excerising
 
 #### :computer: Programming languages and tools:
 <p>
