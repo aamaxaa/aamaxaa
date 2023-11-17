@@ -8,9 +8,9 @@
 Welcome to my Github page! I am Maxine and I recently finished my Computer Science Master degree at the Worcester Polytechnic Institute!  
 
 #### 🔭 Things I am currently working on:
-- Studying for my AWS Certification
-- Reading Decode and Conquer
-- Relaxing after graduation
+- Learning React
+- Reading The Pragmatic Programmer
+- Learning how to surf
 
 #### :muscle: Things I am keeping up with daily:
 - Coding practices
