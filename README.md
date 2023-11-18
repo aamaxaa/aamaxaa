@@ -14,8 +14,8 @@ Welcome to my Github page! I am Maxine and I recently finished my Computer Scien
 
 #### :muscle: Things I am keeping up with daily:
 - Coding practices
-- Read about emerging technology
-- Excerising
+- Reading about stock market news
+- Exercising
 
 #### :computer: Programming languages and tools:
 <p>
