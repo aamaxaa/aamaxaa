@@ -10,6 +10,7 @@ Welcome to my Github page! I am Maxine and I recently finished my Computer Scien
 #### 🔭 Things I am currently working on:
 - Learning React
 - Reading The Pragmatic Programmer
+- Working on my [portfolio website](aamaxaa.github.io)
 - Learning how to surf
 
 #### :muscle: Things I am keeping up with daily:
